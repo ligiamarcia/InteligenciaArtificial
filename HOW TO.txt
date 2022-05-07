@@ -1,0 +1,19 @@
+﻿Trabalho Final de Inteligência Artificial
+
+
+Observação:
+A implementação foi realizada utilizando o ambiente de notebooks Jupyter. Desta forma não é necessária configuração local, pois a execução acontece na nuvem do Google.
+
+
+Assim que abrir o ambiente, todas as células estarão em seu último estado executado. Sendo assim, não é necessário “rodar” os códigos.
+
+
+É necessário realizar a validação do usuário para que seja possível o acesso a database por meio do código. Para isso, deve-se permitir que o usuário conceda acesso ao seu drive para a ferramenta. 
+
+
+De qualquer forma, se necessária a execução deve-se seguir os seguintes passos:
+
+
+* Ao iniciar o notebook, é necessário conectar-se ao ambiente de execução, assim que carregar o sistema deve-se clicar no botão no canto superior à direita “Conectar”
+* Para a execução do código de modo manual (uma célula por vez), deve-se executar a célula (ctrl + enter) clicando no botão “play” no lado esquerdo.
+* Para a execução do código de modo automático (todas as células executadas sequencialmente), deve clicar na opção “ambiente de trabalho” e, após isso, selecionar a opção “executar tudo” (ctrl + f9).
